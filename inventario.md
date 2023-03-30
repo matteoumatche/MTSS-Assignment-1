@@ -4,5 +4,11 @@
 # Inventario
 
 - [Processori](./processori.md)
-[Schede Madri](./schede_madri.md)
+- [Schede Madri](./schede_madri.md)
+
+
+# periferiche
+
+- [periferiche](./periferiche)
+
 Elettronica Padovana1
